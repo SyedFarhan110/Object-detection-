@@ -6,13 +6,6 @@
     "type": "yolox"
   },
   {
-    "name": "SSd MobileNet V1",
-    "model_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/ssd_mobilenet_v1_1_metadata_1.tflite",
-    "labels_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/labels.txt",
-    "type": "yolox"
-  },
-
-  {
     "name": "YOLO 11 Segmentation float32",
     "model_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/yolo11n-seg_float32.tflite",
     "labels_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/yoloLabels.txt",
