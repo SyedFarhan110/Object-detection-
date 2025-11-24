@@ -20,13 +20,13 @@
   {
     "name": "YOLO 11 Pose float16",
     "model_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/yolo11n-pose_float16.tflite",
-    "labels_url": "",
+    "labels_url": "person",
     "type": "YOLO 11 Pose"
   },
   {
     "name": "YOLO 11 Pose float32",
     "model_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/yolo11n-pose_float32.tflite",
-    "labels_url": "",
+    "labels_url": "person",
     "type": "YOLO 11 Pose"
   }
 ]
