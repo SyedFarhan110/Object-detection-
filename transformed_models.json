@@ -28,5 +28,11 @@
     "model_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/yolo11n-pose_float32.tflite",
     "labels_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/yoloPoseLabels.txt",
     "type": "YOLO 11 Pose"
+  },
+  {
+    "name": "Number Plate Detection",
+    "model_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/lpd_float32.tflite",
+    "labels_url": "https://github.com/SyedFarhan110/tflite-models/raw/refs/heads/main/lpd_labels.txt",
+    "type": "Number Plate Detection"
   }
 ]
